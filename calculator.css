@@ -13,6 +13,8 @@
   color: white;
 }
 .textView{
+  width: 224;
+  height: 60;
   margin: 5;
   font-size: 25;
   padding: 5;

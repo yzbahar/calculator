@@ -4,7 +4,7 @@ function insert(num) {
 function equal() {
   var exp = document.form.textView.value;
   if(exp){
-    document.form.textView.value = eval(exp)
+    document.form.textView.value = eval(exp);
   }
 }
 function clean() {
