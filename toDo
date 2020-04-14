@@ -7,8 +7,8 @@
   [x] √x hesaplama buttonu
   [x] x! alma buttonu
 
-[ ] Kod versionlama
-  [ ] Git reposu oluşturma
-  [ ] Git e pushlama
-  [ ] Git reposunu paylaşma
+[x] Kod versionlama
+  [x] Git reposu oluşturma
+  [x] Git e pushlama
+  [x] Git reposunu paylaşma
   
