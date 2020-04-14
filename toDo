@@ -1,0 +1,14 @@
+[x] Değiştirilebilir css
+  [x] button tasarımı
+  [x] background tasarımı
+
+[x] Extra hesaplama buttonları
+  [x] x^2 hesaplama buttonu
+  [x] √x hesaplama buttonu
+  [x] x! alma buttonu
+
+[ ] Kod versionlama
+  [ ] Git reposu oluşturma
+  [ ] Git e pushlama
+  [ ] Git reposunu paylaşma
+  
