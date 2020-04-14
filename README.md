@@ -1,4 +1,4 @@
-# Calculator
+## Calculator
 
 Simple calculator. Using by html, css
 
